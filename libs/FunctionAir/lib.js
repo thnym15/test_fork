@@ -1,4 +1,4 @@
-function datetime(){
-    var date = new Data();
-    console.log(date);
+function datetime() {
+    var date = new Date();
+    console.log(date.toISOString());
 }
