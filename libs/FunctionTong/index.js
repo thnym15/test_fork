@@ -1,3 +1,3 @@
 // TODO
-// - first initialtial
+// - first initial
     // - modify step 1
