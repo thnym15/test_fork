@@ -1,1 +1,5 @@
 // TODO
+// CANCER
+// SALE
+// PAYMENT
+// JA
