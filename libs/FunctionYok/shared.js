@@ -4,5 +4,8 @@ function sumNumber(x,y){
     if(y > 0){
         y =10;
     }
-    return x+y;
+    if (x < 0) {
+        x = 0
+    }
+    return x + y;
 }
